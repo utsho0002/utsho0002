@@ -1,5 +1,5 @@
 ## Hi there 👋
-https://github.com/utsho0002/utsho0002/blob/main/Black%20Blue%20Tosca%20Bold%20Gradient%20Repair%20Your%20Computer%20Banner%20.png?raw=true
+![image alt](https://github.com/utsho0002/utsho0002/blob/main/Black%20Blue%20Tosca%20Bold%20Gradient%20Repair%20Your%20Computer%20Banner%20.png?raw=true)
 <!--
 **utsho0002/utsho0002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
