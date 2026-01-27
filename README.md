@@ -22,7 +22,7 @@
 <!-- ================= End Reach Me Out ================= -->
 
 <h2 align="center">Technical Expertise</h2>
-
+![image alt](https://github.com/utsho0002/utsho0002/blob/a31ab4cb2727770d5a2d7a88065919cff0783725/Black%20Blue%20Tosca%20Bold%20Gradient%20Repair%20Your%20Computer%20Banner%20%20(1).png)
 
 
 
