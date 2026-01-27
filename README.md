@@ -26,6 +26,15 @@
 <img src="https://github.com/utsho0002/utsho0002/blob/main/technical%20experties.png?raw=true">
 
 
+<h2 align="center">🚀 Current Overview</h2>
+
+<p align="center">
+I am a third-year Computer Science student with a perfect academic record (CGPA: 4.00/4.00) and a strong passion for front-end development. I specialize in building modern, responsive, and user-friendly web applications using HTML, CSS, JavaScript, Tailwind CSS, React.js, and Vue.js, with experience in MongoDB for backend integration.  
+
+Alongside front-end development, I have foundational knowledge of Flutter, Python, Java, C, and C++, and I am currently exploring the fundamentals of Machine Learning to expand my skill set.  
+
+I am committed to continuous learning, building impactful projects, and contributing to open-source while preparing for a professional career in software development and research.
+</p>
 
 
 
