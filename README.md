@@ -28,13 +28,16 @@
 
 <h2 align="center">🚀 Current Overview</h2>
 
-<p align="center">
-I am a third-year Computer Science student with a perfect academic record (CGPA: 4.00/4.00) and a strong passion for front-end development. I specialize in building modern, responsive, and user-friendly web applications using HTML, CSS, JavaScript, Tailwind CSS, React.js, and Vue.js, with experience in MongoDB for backend integration.  
+<ul>
+  <li>🎓 Third-year Computer Science student with a perfect academic record (CGPA: 4.00/4.00)</li>
+  <li>💻 Front-end developer specializing in <strong>HTML, CSS, JavaScript, Tailwind CSS, React.js, and Vue.js</strong></li>
+  <li>🗄️ Experience with <strong>MongoDB</strong> for backend integration</li>
+  <li>🛠️ Foundational knowledge of <strong>Flutter, Python, Java, C, and C++</strong></li>
+  <li>🤖 Currently exploring the fundamentals of <strong>Machine Learning</strong> to expand technical skills</li>
+  <li>🌱 Committed to continuous learning, building impactful projects, and contributing to open-source</li>
+  <li>🎯 Preparing for a professional career in software development and research</li>
+</ul>
 
-Alongside front-end development, I have foundational knowledge of Flutter, Python, Java, C, and C++, and I am currently exploring the fundamentals of Machine Learning to expand my skill set.  
-
-I am committed to continuous learning, building impactful projects, and contributing to open-source while preparing for a professional career in software development and research.
-</p>
 
 
 
