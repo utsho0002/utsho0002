@@ -3,19 +3,20 @@
 
 <!-- ================= Reach Me Out ================= -->
 
-<h2 align="center">✨ Reach Me Out</h2>
+<h2 align="center">🚀 Reach Me Out</h2>
 
 <p align="center">
   <a href="https://www.facebook.com/YOUR_FACEBOOK_USERNAME">
-    <img src="https://img.shields.io/badge/Facebook-Message-0866FF?style=flat-square&logo=facebook">
+    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:YOUR_EMAIL_ADDRESS">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
+
 
 
 <!-- ================= End Reach Me Out ================= -->
