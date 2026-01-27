@@ -1,5 +1,35 @@
 ## Hi there 👋
 ![image alt](https://github.com/utsho0002/utsho0002/blob/main/Black%20Blue%20Tosca%20Bold%20Gradient%20Repair%20Your%20Computer%20Banner%20.png?raw=true)
+
+<!-- ================= Reach Me Out ================= -->
+
+<h2 align="center">📬 Reach Me Out</h2>
+
+<p align="center">
+  <a href="https://www.facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:YOUR_EMAIL_ADDRESS">
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+<!-- ================= End Reach Me Out ================= -->
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 **utsho0002/utsho0002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
