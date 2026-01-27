@@ -21,9 +21,7 @@
 
 <!-- ================= End Reach Me Out ================= -->
 
-
-
-
+<h2 align="center">Technical Expertise</h2>
 
 
 
