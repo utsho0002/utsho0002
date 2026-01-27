@@ -20,9 +20,9 @@
 
 
 <!-- ================= End Reach Me Out ================= -->
+<h2 align="center">Technical Expertiest</h2>
+<img src="https://github.com/utsho0002/utsho0002/blob/main/technical%20experties.png?raw=true">
 
-
-![Technical Expertise](https://github.com/utsho0002/utsho0002/blob/32b3fe79ae88cab613d0b0b948859f7c02679000/technical%20experties.png)
 
 
 
