@@ -21,7 +21,7 @@
 
 <!-- ================= End Reach Me Out ================= -->
 
-<h2 align="center">Technical Expertise</h2>
+
 ![Technical Expertise](https://github.com/utsho0002/utsho0002/blob/32b3fe79ae88cab613d0b0b948859f7c02679000/technical%20experties.png)
 
 
