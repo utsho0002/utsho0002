@@ -22,7 +22,7 @@
 <!-- ================= End Reach Me Out ================= -->
 
 <h2 align="center">Technical Expertise</h2>
-![image alt](https://github.com/utsho0002/utsho0002/blob/main/technical%20experties.png?raw=true)
+![Technical Expertise](https://raw.githubusercontent.com/utsho0002/utsho0002/main/technical%20experties.png)
 
 
 
