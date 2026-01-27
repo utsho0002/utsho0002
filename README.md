@@ -21,7 +21,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=utsho0002&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utsho0002)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utsho0002&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <h2 align="center">Technical Expertiest</h2>
 <img src="https://github.com/utsho0002/utsho0002/blob/main/technical%20experties.png?raw=true">
 
