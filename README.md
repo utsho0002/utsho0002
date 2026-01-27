@@ -9,7 +9,7 @@
   <a href="https://www.facebook.com/utsho.paul.2025/">
     <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
-  <a href="www.linkedin.com/in/utsho-paul-b32379370">
+  <a href="https://www.linkedin.com/in/utsho-paul-b32379370/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
