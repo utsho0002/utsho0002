@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif"><defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fb7185"/><stop offset="1" stop-color="#fbbf24"/></linearGradient>
+<linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffffff" stop-opacity="0"/><stop offset=".5" stop-color="#ffffff" stop-opacity=".9"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></linearGradient>
+
+<linearGradient id="hbg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#090b10"/><stop offset="1" stop-color="#131722"/></linearGradient>
+<radialGradient id="a1"><stop offset="0" stop-color="#fb7185" stop-opacity=".40"/><stop offset="1" stop-color="#fb7185" stop-opacity="0"/></radialGradient>
+<radialGradient id="a2"><stop offset="0" stop-color="#fbbf24" stop-opacity=".28"/><stop offset="1" stop-color="#fbbf24" stop-opacity="0"/></radialGradient>
+<radialGradient id="a3"><stop offset="0" stop-color="#2dd4bf" stop-opacity=".26"/><stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/></radialGradient>
+<linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity=".14"/><stop offset="1" stop-color="#ffffff" stop-opacity=".03"/></linearGradient>
+<linearGradient id="gname" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f8fafc"/><stop offset=".58" stop-color="#f8fafc"/><stop offset=".63" stop-color="#fb7185"/><stop offset="1" stop-color="#fbbf24"/></linearGradient>
+<pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#ffffff" fill-opacity=".10"/></pattern>
+<clipPath id="clip"><rect width="900" height="320" rx="20"/></clipPath>
+<clipPath id="tn"><rect x="40" y="92" width="640" height="100"><animate attributeName="width" values="0;0;640" keyTimes="0;0.12;1" dur="2.2s" fill="freeze"/></rect></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+<rect width="900" height="320" fill="url(#hbg)"/>
+<rect width="900" height="320" fill="url(#dots)"/>
+<circle cx="770" cy="30" r="270" fill="url(#a1)"><animate attributeName="cx" values="770;700;770" dur="12s" repeatCount="indefinite"/></circle>
+<circle cx="560" cy="330" r="230" fill="url(#a2)"><animate attributeName="cy" values="330;290;330" dur="10s" repeatCount="indefinite"/></circle>
+<circle cx="120" cy="340" r="230" fill="url(#a3)"><animate attributeName="cx" values="120;190;120" dur="14s" repeatCount="indefinite"/></circle>
+<circle cx="60" cy="66" r="4.5" fill="#fb7185"><animate attributeName="opacity" values="1;.3;1" dur="1.6s" repeatCount="indefinite"/></circle>
+<text x="76" y="71" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" fill="#8b94a7" letter-spacing="1">hello, I'm</text>
+<text x="52" y="162" font-size="76" font-weight="800" fill="url(#gname)" clip-path="url(#tn)" letter-spacing="-2">Utsho Paul</text>
+<text x="56" y="204" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="22" fill="#fb7185">&gt;</text>
+<text x="82" y="204" font-size="25" font-weight="600" fill="#f1f5f9" opacity="1">Aspiring Machine Learning Researcher<animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0.000;0.220;0.250;0.970;1.000" dur="12s" repeatCount="indefinite"/></text><text x="82" y="204" font-size="25" font-weight="600" fill="#f1f5f9" opacity="0">Full-Stack Web Developer<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.000;0.220;0.250;0.470;0.500;1.000" dur="12s" repeatCount="indefinite"/></text><text x="82" y="204" font-size="25" font-weight="600" fill="#f1f5f9" opacity="0">Flutter Mobile App Developer<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.000;0.470;0.500;0.720;0.750;1.000" dur="12s" repeatCount="indefinite"/></text><text x="82" y="204" font-size="25" font-weight="600" fill="#f1f5f9" opacity="0">Compiler Builder<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0.000;0.720;0.750;0.970;1.000" dur="12s" repeatCount="indefinite"/></text>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.6842;1" dur="1.90s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 10;0 10;0 0" keyTimes="0;0.6842;1" dur="1.90s" fill="freeze"/><text x="56" y="244" font-size="15" fill="#8b94a7">Building reliable, people-focused AI for education,</text></g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.7143;1" dur="2.10s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 10;0 10;0 0" keyTimes="0;0.7143;1" dur="2.10s" fill="freeze"/><text x="56" y="266" font-size="15" fill="#8b94a7">healthcare and public services.</text></g>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -10;0 0" dur="5s" begin="0s" repeatCount="indefinite"/><g transform="translate(735 92) rotate(-10)"><rect x="-52.0" y="-52.0" width="104" height="104" rx="24" fill="url(#card)" stroke="url(#g)" stroke-opacity=".6"/><text y="11" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="32" font-weight="700" fill="url(#g)">&lt;/&gt;</text></g></g>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -10;0 0" dur="6s" begin="0.8s" repeatCount="indefinite"/><g transform="translate(824 170) rotate(8)"><rect x="-52.0" y="-52.0" width="104" height="104" rx="24" fill="url(#card)" stroke="url(#g)" stroke-opacity=".6"/><text y="12" text-anchor="middle" font-size="38" font-weight="800" fill="url(#g)">AI</text></g></g>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -10;0 0" dur="5.5s" begin="1.6s" repeatCount="indefinite"/><g transform="translate(716 236) rotate(-5)"><rect x="-48.0" y="-48.0" width="96" height="96" rx="24" fill="url(#card)" stroke="url(#g)" stroke-opacity=".6"/><rect x="-22" y="-2" width="10" height="22" rx="3" fill="#2dd4bf"/><rect x="-5" y="-16" width="10" height="36" rx="3" fill="#fbbf24"/><rect x="12" y="-8" width="10" height="28" rx="3" fill="#fb7185"/></g></g>
+<rect y="316" width="900" height="4" fill="url(#g)"/>
+</g>
+<rect x=".5" y=".5" width="899" height="319" rx="20" fill="none" stroke="#262b36"/>
+</svg>

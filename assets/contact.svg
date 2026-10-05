@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif"><defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fb7185"/><stop offset="1" stop-color="#fbbf24"/></linearGradient>
+<linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffffff" stop-opacity="0"/><stop offset=".5" stop-color="#ffffff" stop-opacity=".9"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></linearGradient>
+
+<linearGradient id="cbg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fb7185"/><stop offset="1" stop-color="#fbbf24"/></linearGradient>
+<clipPath id="cl"><rect width="900" height="200" rx="24"/></clipPath>
+</defs>
+<g clip-path="url(#cl)">
+<rect width="900" height="200" fill="url(#cbg)"/>
+<circle cx="770" cy="50" r="120" fill="#ffffff" fill-opacity=".14"><animate attributeName="r" values="120;134;120" dur="6s" repeatCount="indefinite"/></circle><circle cx="860" cy="170" r="84" fill="#ffffff" fill-opacity=".16"><animate attributeName="r" values="84;96;84" dur="7s" repeatCount="indefinite"/></circle><circle cx="690" cy="168" r="34" fill="none" stroke="#1a1007" stroke-opacity=".25" stroke-width="2" stroke-dasharray="4 6"><animateTransform attributeName="transform" type="rotate" from="0 690 168" to="360 690 168" dur="16s" repeatCount="indefinite"/></circle><g transform="translate(790 110)"><g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="10s" repeatCount="indefinite"/><line x1="-12" y1="0" x2="12" y2="0" stroke="#1a1007" stroke-width="3.5" stroke-linecap="round"/><line x1="0" y1="-12" x2="0" y2="12" stroke="#1a1007" stroke-width="3.5" stroke-linecap="round"/></g></g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.2222;1" dur="0.90s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 10;0 10;0 0" keyTimes="0;0.2222;1" dur="0.90s" fill="freeze"/><text x="48" y="78" font-size="40" font-weight="800" fill="#1a1007">Let&apos;s work together.</text></g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.4167;1" dur="1.20s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 10;0 10;0 0" keyTimes="0;0.4167;1" dur="1.20s" fill="freeze"/><text x="48" y="110" font-size="16" fill="#3b2208">Open to ML/AI research collaborations, internships and open source.</text></g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5333;1" dur="1.50s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 10;0 10;0 0" keyTimes="0;0.5333;1" dur="1.50s" fill="freeze"/><rect x="48" y="132" width="245.8" height="40" rx="20" fill="#1a1007"/><circle cx="68" cy="152" r="3.5" fill="#34d399"/><text x="82" y="157" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14.5" fill="#fbbf24">utshopaul0002@gmail.com</text></g>
+</g>
+</svg>
