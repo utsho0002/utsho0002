@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/utsho-paul-b32379370/"><img src="assets/btn-linkedin.svg" height="40" alt="LinkedIn"/></a>
-<a href="mailto:utshopaul0002@gmail.com"><img src="assets/btn-email.svg" height="40" alt="Email"/></a>
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=utshopaul0002@gmail.com"><img src="assets/btn-email.svg" height="40" alt="Email"/></a>
 <a href="https://www.facebook.com/utsho.paul.2025/"><img src="assets/btn-facebook.svg" height="40" alt="Facebook"/></a>
 <a href="YOUR_PORTFOLIO_LINK"><img src="assets/btn-portfolio.svg" height="40" alt="Portfolio"/></a>
 
