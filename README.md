@@ -18,40 +18,21 @@
 <br/><br/><br/>
 
 <img src="assets/sec-stack.svg" width="100%" alt="Tech Stack"/>
-<br/><br/>
-<img src="assets/stack.svg" width="100%" alt="Tech stack: Python, C, C++, Java, JavaScript, Dart, HTML, CSS, Tailwind, React, Node.js, Express, Flutter, MongoDB, PostgreSQL, Firebase, Supabase, Git, Docker"/>
+<br/>
+
+<sub><b>LANGUAGES</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,dart&theme=dark" height="52" alt="Python, C, C++, Java, JavaScript, Dart"/><br/>
+
+<sub><b>WEB &amp; MOBILE</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,express,flutter&theme=dark" height="52" alt="HTML, CSS, Tailwind CSS, React, Node.js, Express, Flutter"/><br/>
+
+<sub><b>DATABASES</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,supabase&theme=dark" height="52" alt="MongoDB, PostgreSQL, Firebase, Supabase"/><br/>
+
+<sub><b>TOOLS</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,vercel,netlify&theme=dark" height="52" alt="Git, GitHub, Docker, VS Code, Postman, Vercel, Netlify"/>
 
 <br/><br/><br/>
-
-<img src="assets/sec-projects.svg" width="100%" alt="Selected Projects"/>
-<br/><br/>
-
-<table>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <a href="YOUR_SUBORNO_REPO_LINK"><img src="assets/proj-1.svg" alt="Suborno - Bengali Programming Language Compiler"/></a><br/>
-      <a href="YOUR_SUBORNO_REPO_LINK"><img src="assets/btn-repo.svg" height="40" alt="Suborno repo"/></a>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <a href="YOUR_MINI_MARVELS_REPO_LINK"><img src="assets/proj-2.svg" alt="Mini Marvels - Parent-Child Learning and Task Management App"/></a><br/>
-      <a href="YOUR_MINI_MARVELS_REPO_LINK"><img src="assets/btn-repo.svg" height="40" alt="Mini Marvels repo"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <a href="YOUR_CIVICCONNECT_LIVE_LINK"><img src="assets/proj-3.svg" alt="CivicConnect - Community Complaint Reporting Platform"/></a><br/>
-      <a href="YOUR_CIVICCONNECT_LIVE_LINK"><img src="assets/btn-live.svg" height="40" alt="CivicConnect live demo"/></a>
-      <a href="YOUR_CIVICCONNECT_REPO_LINK"><img src="assets/btn-repo.svg" height="40" alt="CivicConnect repo"/></a>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <a href="YOUR_BLOODHERO_LIVE_LINK"><img src="assets/proj-4.svg" alt="BloodHero - Blood Donation Coordination Platform"/></a><br/>
-      <a href="YOUR_BLOODHERO_LIVE_LINK"><img src="assets/btn-live.svg" height="40" alt="BloodHero live demo"/></a>
-      <a href="YOUR_BLOODHERO_REPO_LINK"><img src="assets/btn-repo.svg" height="40" alt="BloodHero repo"/></a>
-    </td>
-  </tr>
-</table>
-
-<br/><br/>
 
 <img src="assets/sec-contact.svg" width="100%" alt="Contact"/>
 <br/><br/>
